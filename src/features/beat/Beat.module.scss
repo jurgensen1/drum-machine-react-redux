@@ -1,0 +1,77 @@
+
+.container {
+    width: 60vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 0;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    background-color: white;
+}
+
+.controlsContainer{
+    width: 12vw;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 5%;
+}
+.logo{
+    margin-top: 5%;
+    width: 10%;
+}
+
+.padBank{
+    width: 40vw;
+    height: 40vw;
+    margin-top: 2vw;
+    position: relative;
+    display: inline-block;
+}
+
+.padButtonContiner{
+    display: block;
+    height: 12vw;
+    width: 12vw;
+    float: left;
+    background-color: rgb(119, 119, 119);
+    font-size: 5vw;
+    line-height: 10vw;
+}
+.control{
+    display: flex;
+    align-items: center;
+}
+.select{
+    background-color: white;
+    width: 30px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+    justify-content: center;
+    margin-right: 10px;
+}
+.inner{
+    background-color: black;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+}
+.display{
+    background-color: darkgray;
+    width: 150px;
+    height: 30px;
+    padding-top: 10px;
+    border-radius: 5px;
+}
+#powerButton{
+    margin-top: 30px;
+}
+
+.volumeSlider{
+    margin-bottom: 30px;
+}
