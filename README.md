@@ -3,7 +3,8 @@ In partial completion of freeCodeCamp’s front-end framework certificate progra
 Used React, Redux, and SASS.  
 
 ## Live
-Find the live gh-pages version of this app at:
+Find the live gh-pages version of this app at:  
+https://jurgensen1.github.io/drum-machine-react-redux/  
 
   
 ## Requirements:  
